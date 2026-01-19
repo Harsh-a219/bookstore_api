@@ -153,12 +153,5 @@ Pagination & filters
 
 Deployment on cloud (AWS / Render)
 
-👨‍💻 Developer
 
-Name: Subham Yadav
-Course: B.Tech – Computer Science
-Project Type:  Internship Level Project
 
-🔗 GitHub Repository:
-https://github.com/
-<your-username>/bookstore_api
